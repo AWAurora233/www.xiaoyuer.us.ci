@@ -1,56 +1,56 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-11-01T05:50:25.912Z",
+  "updated_at": "2026-11-22T07:04:43.534Z",
   "stats": {
-    "total_hours": 40.12,
-    "daily_avg": 5.73,
-    "trend": "rising",
+    "total_hours": 0,
+    "daily_avg": 0,
+    "trend": "falling",
     "max_day": {
-      "date": "2026-10-31",
-      "hours": 8.62,
-      "text": "8 hrs 37 mins"
+      "date": "2026-11-22",
+      "hours": 0,
+      "text": "0 secs"
     }
   },
   "days": [
     {
-      "date": "2026-10-26",
-      "hours": 6.23,
-      "text": "6 hrs 13 mins"
+      "date": "2026-11-16",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-10-27",
-      "hours": 5.21,
-      "text": "5 hrs 12 mins"
+      "date": "2026-11-17",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-10-28",
-      "hours": 4.64,
-      "text": "4 hrs 38 mins"
+      "date": "2026-11-18",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-10-29",
-      "hours": 4.24,
-      "text": "4 hrs 14 mins"
+      "date": "2026-11-19",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-10-30",
-      "hours": 5.82,
-      "text": "5 hrs 49 mins"
+      "date": "2026-11-20",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-10-31",
-      "hours": 8.62,
-      "text": "8 hrs 37 mins"
+      "date": "2026-11-21",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-11-01",
-      "hours": 5.36,
-      "text": "5 hrs 21 mins"
+      "date": "2026-11-22",
+      "hours": 0,
+      "text": "0 secs"
     }
   ],
   "ai": {
-    "title": "火力全开",
-    "quote": "键盘都在喊累，但你的 Commit 还在飞。",
-    "tarot": "⚡ The Magician (魔术师)",
-    "theme_color": "#f5af19"
+    "title": "休养生息",
+    "quote": "代码写得少，Bug 自然少。这是某种程度上的绝对胜利。",
+    "tarot": "🛌 The Hermit (隐士)",
+    "theme_color": "#a0c4ff"
   }
 };
